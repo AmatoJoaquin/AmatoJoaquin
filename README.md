@@ -1,5 +1,5 @@
 # 💫 About Me:
-Actualmente estoy estudiando el Desarrollo Back-End, aun soy candidato del programa ONE de Oracle + Alura
+Apasionado por la tecnologia, buscando aprender sobre las nuevas tecnologias y poder llevarlas a cabo en proyectos y labores a futuro!
 
 
 ## 🌐 Socials:
